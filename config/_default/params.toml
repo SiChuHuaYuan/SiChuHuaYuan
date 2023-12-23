@@ -2,8 +2,8 @@
 
 # Brand Bar (inside header)
 siteBrand = true
-BrandName = "Arberia Theme"
-BrandLogo = "img/arberia-logo.webp"
+BrandName = "四处化圆"
+BrandLogo = "img/me.jpg"
 BrandBorder = "rounded" # Use rounded or rounded-circle
 siteBrandWidth = 38
 siteBrandHeight = 38
@@ -16,8 +16,8 @@ siteBrandHeight = 38
 tagline = "Responsive Hugo Theme"
 description = "Arberia Theme for Hugo Static Site Generator. Insert here general site description"
 keywords = "Insert keywords"
-author = "圆宝的 resume"
-author_resume = "圆宝的 resume"
+author = "圆宝"
+author_resume = "圆宝"
 
 # #################### default parameters ################################
 # format date. See https://gohugo.io/functions/format/

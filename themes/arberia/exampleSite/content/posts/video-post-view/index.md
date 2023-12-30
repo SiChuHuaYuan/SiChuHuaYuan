@@ -8,7 +8,7 @@ type: video
 weight: 1
 
 author: Vincenzo Antedoro
-avatar: /img/me.jpg
+avatar: /images/me.jpg
 authorLink: /about/
 description: Descrizione da rivedere se è un doppione subtitle
 

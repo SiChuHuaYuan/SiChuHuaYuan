@@ -8,7 +8,7 @@ weight: 2
 
 author: Vincenzo Antedoro
 authorLink: /about
-avatar: /img/me.jpg
+avatar: /images/me.jpg
 description: Insert description here. This don't affects subtitle but only html internals
 
 tags:

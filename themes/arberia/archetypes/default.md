@@ -20,7 +20,7 @@ hiddenFromHomePage: false
 hiddenFromSearch: false # da implementare
 
 author: "Insert author"
-avatar: /img/me.jpg  # link to avatar file
+avatar: /images/me.jpg  # link to avatar file
 authorLink: ""
 description: "A short description"
 

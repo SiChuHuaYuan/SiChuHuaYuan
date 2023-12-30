@@ -7,7 +7,7 @@ lastmod: 2020-10-15T20:58:53+02:00
 draft: false
 
 author: 圆宝
-avatar: /img/me.jpg
+avatar: /images/me.jpg
 authorLink: /about
 description: "Insert description here. This don't affects subtitle but only html internals"
 

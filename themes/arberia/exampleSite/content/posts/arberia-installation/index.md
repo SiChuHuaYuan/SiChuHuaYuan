@@ -21,7 +21,7 @@ hiddenFromHomePage: false
 hiddenFromSearch: false
 
 author: author
-avatar: /img/me.jpg
+avatar: /images/me.jpg
 authorLink: ""
 description: Descrizione da rivedere se è un doppione subtitle
 

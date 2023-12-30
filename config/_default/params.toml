@@ -3,7 +3,7 @@
 # Brand Bar (inside header)
 siteBrand = true
 BrandName = "四处化圆"
-BrandLogo = "img/me.jpg"
+BrandLogo = "/images/me.jpg"
 BrandBorder = "rounded" # Use rounded or rounded-circle
 siteBrandWidth = 38
 siteBrandHeight = 38

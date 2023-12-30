@@ -9,7 +9,8 @@
 {{ with site.Params }}
 {{ if .siteBrand }}
 <a class="navbar-brand mr-0 mr-md-2" href="{{ print `/` | relLangURL }}">
-    <img src="{{ .BrandLogo | relURL }}" 
+    <!-- <img src="{{ .BrandLogo | relURL }}"  -->
+    <img src="/images/me.jpg" 
     width="{{ .siteBrandWidth }}" 
     height="{{ .siteBrandHeight }}" 
     class="d-inline-block align-top {{ .BrandBorder }} border"

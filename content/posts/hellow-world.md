@@ -1,9 +1,8 @@
 ---
 weight: 1
-title: Hello World
-subtitle: Subtitle
-date: 2020-10-15T20:58:53+02:00
-lastmod: 2020-10-15T20:58:53+02:00
+title: first post
+subtitle: haha
+date: 2023-12-29T20:58:53+08:00
 draft: false
 
 author: 圆宝
@@ -27,7 +26,7 @@ sidebar: true
 toc: true
 
 license: ""
-slug: slug here if necessary
+slug: first-post
 ---
 # Hello World
 ## Hello Wrold!

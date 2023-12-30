@@ -1,8 +1,8 @@
 ---
 weight: 1
-title: 3
-subtitle: Subtitle
-date: 2020-10-16T20:58:53+02:00
+title: secondd post
+subtitle: haha
+date: 2023-12-29T20:58:53+08:00
 draft: false
 
 author: 圆宝
@@ -26,7 +26,7 @@ sidebar: true
 toc: true
 
 license: ""
-slug: slug here if necessary
+slug: first-post
 ---
 # Hello World
 ## Hello Wrold!

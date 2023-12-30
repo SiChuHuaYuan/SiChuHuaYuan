@@ -1,18 +1,9 @@
 title = "四处化圆"
 baseURL = "https://sichuhuayuan.github.io/"
-relativeURLs = "False"
+relativeURLs = "True"
 languageCode = "en-us"
 defaultContentLanguage = 'en'
 theme = "arberia"
-
-# mount /images to static images see https://discourse.gohugo.io/t/help-with-link-images-to-see-from-absolute-path-including-static/41177
-[[module.mounts]]
-source = 'static'
-target = 'static'
-
-[[module.mounts]]
-source = 'images'
-target = 'static/images'
 
 # format date. See https://gohugo.io/functions/format/
 dateformat = "Monday, January 2, 2006"

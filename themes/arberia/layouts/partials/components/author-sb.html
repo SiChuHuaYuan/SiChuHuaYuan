@@ -6,17 +6,17 @@
             <div class="textwidget">
                 <p class="small text-muted" style="text-align: justify;">
 
-                    {{/*  {{ $avatar := (.Resources.GetMatch "/images/me.jpg") }}
+                    {{/*  {{ $avatar := (.Resources.GetMatch "https://media.cmx.edu.kg/accounts/avatars/000/068/907/original/4f08cc17c3aba020.jpeg") }}
                     {{ if ($avatar)}}
                         {{ $avatar:= ($avatar.Fit "72x72").RelPermalink}}
                     {{end}}  */}}
 
                     <img class="float-left rounded m-1"
                         title="{{ .Params.author | markdownify }}"
-                        src="/images/me.jpg"
+                        src="https://media.cmx.edu.kg/accounts/avatars/000/068/907/original/4f08cc17c3aba020.jpeg"
                         srcset="me.jpg 250w, 
-                        /images/me.jpg 450w, 
-                        /images/me.jpg 900w" sizes="25vw"
+                        https://media.cmx.edu.kg/accounts/avatars/000/068/907/original/4f08cc17c3aba020.jpeg 450w, 
+                        https://media.cmx.edu.kg/accounts/avatars/000/068/907/original/4f08cc17c3aba020.jpeg 900w" sizes="25vw"
                         alt="{{- .Params.author  | markdownify -}}" width="72" height="72"> 
                         {{- .Site.Params.author_resume| markdownify -}} </p>
             </div>

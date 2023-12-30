@@ -8,7 +8,7 @@ type: video
 weight: 1
 
 author: Vincenzo Antedoro
-avatar: /images/me.jpg
+avatar: https://media.cmx.edu.kg/accounts/avatars/000/068/907/original/4f08cc17c3aba020.jpeg
 authorLink: /about/
 description: Descrizione da rivedere se è un doppione subtitle
 

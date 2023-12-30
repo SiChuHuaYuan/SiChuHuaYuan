@@ -21,7 +21,7 @@ hiddenFromHomePage: false
 hiddenFromSearch: false
 
 author: author
-avatar: /images/me.jpg
+avatar: https://media.cmx.edu.kg/accounts/avatars/000/068/907/original/4f08cc17c3aba020.jpeg
 authorLink: ""
 description: Descrizione da rivedere se è un doppione subtitle
 

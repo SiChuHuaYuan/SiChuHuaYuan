@@ -9,7 +9,7 @@ draft: false
 type: standard-view
 
 author: "author"
-avatar: /images/me.jpg  # link to avatar file
+avatar: https://media.cmx.edu.kg/accounts/avatars/000/068/907/original/4f08cc17c3aba020.jpeg  # link to avatar file
 authorLink: ""
 description: "Descrizione da rivedere se è un doppione subtitle"
 

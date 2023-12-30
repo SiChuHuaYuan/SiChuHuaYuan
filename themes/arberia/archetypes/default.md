@@ -20,7 +20,7 @@ hiddenFromHomePage: false
 hiddenFromSearch: false # da implementare
 
 author: "Insert author"
-avatar: /images/me.jpg  # link to avatar file
+avatar: https://media.cmx.edu.kg/accounts/avatars/000/068/907/original/4f08cc17c3aba020.jpeg  # link to avatar file
 authorLink: ""
 description: "A short description"
 
